@@ -23,7 +23,7 @@ https://docs.haskellstack.org/en/stable/README/
 
 ## Author
 
-* **yuval schlossser* - *Initial work* - [PurpleBooth](https://github.com/yuvalschl)
+* **yuval schlossser* - *Initial work* - [yuvalschl](https://github.com/yuvalschl)
 
 ## License
 
