@@ -16,7 +16,7 @@ download all the repository file and save them as an haskell project
 
 ## Prerequisites
 
-you will need to install haskell stack on your computer/
+you will need to install haskell stack on your computer
 
 download and install tutorial:/
 https://docs.haskellstack.org/en/stable/README/
