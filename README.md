@@ -6,8 +6,8 @@ a consle mine sweeper age build in haskell
 
 first run the game using: stack run x y z
 where:
-x = number of colums
-y = number of rows
+x = number of colums\
+y = number of rows\
 z = number of mines
 
 ## Getting Started
