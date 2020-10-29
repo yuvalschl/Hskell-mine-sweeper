@@ -4,8 +4,8 @@ a consle mine sweeper age build in haskell
 
 ## how to play
 
-first run the game using: stack run x y z
-where:
+first run the game using: stack run x y z/
+where:/
 x = number of colums\
 y = number of rows\
 z = number of mines
@@ -16,9 +16,9 @@ download all the repository file and save them as an haskell project
 
 ## Prerequisites
 
-you will need to install haskell stack on your computer
+you will need to install haskell stack on your computer/
 
-download and install tutorial:
+download and install tutorial:/
 https://docs.haskellstack.org/en/stable/README/
 
 ## Author
